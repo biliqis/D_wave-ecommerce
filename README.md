@@ -12,7 +12,7 @@ This is an Ecommerce Application API developed using NodeJS, Express,typescript 
 
 
 
-To get started with this project clone the repo by running the command git clone https://github.com/biliqis/myecom-microservices.git or downloading the zip file
+To get started with this project clone the repo by running the command git clone https://github.com/biliqis/D_wave-ecommerce.git or downloading the zip file
 
 In the root of the project run the following command
 
